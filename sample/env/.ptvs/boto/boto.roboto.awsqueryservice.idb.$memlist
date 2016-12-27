@@ -1,0 +1,6 @@
+AWSQueryService
+boto
+urlparse
+NoCredentialsError
+os
+awsqueryrequest

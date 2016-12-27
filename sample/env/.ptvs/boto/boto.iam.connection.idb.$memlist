@@ -1,0 +1,7 @@
+ASSUME_ROLE_POLICY_DOCUMENT
+AWSQueryConnection
+json
+ResultSet
+IAMConnection
+boto
+SummaryMap

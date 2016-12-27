@@ -1,0 +1,17 @@
+time
+httplib
+urlparse
+AWSAuthConnection
+boto
+ResumableUploadException
+ResumableUploadHandler
+config
+InvalidUriError
+ResumableTransferDisposition
+errno
+cgi
+md5
+re
+os
+random
+socket

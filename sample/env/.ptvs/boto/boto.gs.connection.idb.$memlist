@@ -1,0 +1,6 @@
+check_lowercase_bucketname
+Bucket
+S3Connection
+Location
+SubdomainCallingFormat
+GSConnection

@@ -1,0 +1,9 @@
+CertValidatingHTTPSConnection
+GetValidHostsForCert
+boto
+httplib
+ssl
+ValidateCertificateHostname
+socket
+InvalidCertificateException
+re

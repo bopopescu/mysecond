@@ -1,0 +1,11 @@
+copy
+tag_regexp
+_
+gettext
+getETreeBuilder
+new
+moduleCache
+getETreeModule
+_base
+voidElements
+re

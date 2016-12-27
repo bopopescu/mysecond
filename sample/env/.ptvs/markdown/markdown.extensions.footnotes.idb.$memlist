@@ -1,0 +1,13 @@
+makeExtension
+DEF_RE
+FN_BACKLINK_TEXT
+FootnotePostprocessor
+FootnoteTreeprocessor
+re
+FootnoteExtension
+FootnotePreprocessor
+markdown
+NBSP_PLACEHOLDER
+etree
+FootnotePattern
+TABBED_RE

@@ -1,0 +1,12 @@
+ID_CHARS
+doctest
+makeExtension
+HeaderIdExtension
+HeaderIdProcessor
+IDCOUNT_RE
+digits
+markdown
+ascii_lowercase
+etree
+punctuation
+re

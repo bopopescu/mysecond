@@ -1,0 +1,10 @@
+Migrations
+TestComparison
+InitialChanges
+freezer
+SchemaMigration
+AutoChanges
+TestNonManagedIgnored
+FakeORM
+Monkeypatcher
+unittest

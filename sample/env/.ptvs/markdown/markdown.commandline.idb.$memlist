@@ -1,0 +1,12 @@
+run
+EXECUTABLE_NAME_FOR_USAGE
+CRITICAL
+WARN
+DEBUG
+logging
+OPTPARSE_WARNING
+markdown
+ERROR
+parse_options
+INFO
+sys

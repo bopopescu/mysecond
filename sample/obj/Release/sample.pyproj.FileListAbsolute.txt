@@ -1,0 +1,9 @@
+C:\Users\A638002\Desktop\sample\sample\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\A638002\Desktop\sample\sample\bin\AzureSetup.cfg
+C:\Users\A638002\Desktop\sample\sample\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\A638002\Desktop\sample\sample\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\A638002\Desktop\sample\sample\bin\wfastcgi.py
+C:\Users\A638002\Desktop\sample\sample\obj\Release\deployment-updated-orig-prefix.txt
+C:\Users\A638002\Desktop\sample\sample\ptvs_virtualenv_proxy.py
+C:\Users\A638002\Desktop\sample\sample\obj\Release\web.config
+C:\Users\A638002\Desktop\sample\sample\obj\Release\web.debug.config

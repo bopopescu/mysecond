@@ -1,0 +1,8 @@
+regions
+stack
+RegionData
+template
+connection
+RegionInfo
+connect_to_region
+CloudFormationConnection

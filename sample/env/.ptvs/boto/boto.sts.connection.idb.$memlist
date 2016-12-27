@@ -1,0 +1,9 @@
+datetime
+_session_token_cache
+RegionInfo
+AWSQueryConnection
+threading
+FederationToken
+STSConnection
+Credentials
+boto

@@ -1,0 +1,8 @@
+DynamoDBConditionalCheckFailedError
+BotoServerError
+DynamoDBKeyNotFoundError
+DynamoDBItemError
+DynamoDBExpiredTokenError
+BotoClientError
+DynamoDBResponseError
+DynamoDBValidationError

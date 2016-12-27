@@ -1,0 +1,12 @@
+hacks
+make_option
+BaseCommand
+management
+Command
+ImproperlyConfigured
+NoMigrations
+Migrations
+no_style
+models
+sys
+settings

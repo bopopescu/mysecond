@@ -1,0 +1,15 @@
+START_NS
+START
+voidElements
+COMMENT
+END_CDATA
+START_CDATA
+END
+XML_NAMESPACE
+NamespaceFlattener
+DOCTYPE
+TreeWalker
+_base
+PI
+TEXT
+END_NS

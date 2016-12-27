@@ -1,0 +1,11 @@
+InitialChanges
+ManualChanges
+BaseChanges
+GenericRelation
+auto_through
+AutoChanges
+models
+SortedDict
+remove_useless_attributes
+model_key
+freeze_apps

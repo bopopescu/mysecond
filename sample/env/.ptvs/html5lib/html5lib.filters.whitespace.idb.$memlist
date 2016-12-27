@@ -1,0 +1,8 @@
+Filter
+rcdataElements
+_base
+re
+collapse_spaces
+spaceCharacters
+SPACES_REGEX
+frozenset

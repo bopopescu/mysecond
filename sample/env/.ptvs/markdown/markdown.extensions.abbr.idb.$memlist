@@ -1,0 +1,9 @@
+ABBR_REF_RE
+doctest
+AbbrExtension
+etree
+markdown
+makeExtension
+AbbrPattern
+re
+AbbrPreprocessor

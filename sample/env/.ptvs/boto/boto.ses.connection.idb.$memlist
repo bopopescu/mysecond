@@ -1,0 +1,9 @@
+BotoServerError
+base64
+AWSAuthConnection
+SESConnection
+ses_exceptions
+RegionInfo
+boto
+urllib
+re
